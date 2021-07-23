@@ -20,6 +20,18 @@ export default {
             selected: false
         }
     },
+    computed: {
+        selectedList() {
+            return this.$store.state.selected.list
+        }
+    },
+    mounted() {
+        this.selectedList.forEach(element => {
+            if (element.id === this.user.id) {
+                this.selected = true
+            }
+        })
+    },
     methods: {
         click() {
             if (this.selected) {
