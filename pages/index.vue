@@ -12,9 +12,9 @@
       </div>
     </nav>
 
-    <main class="mt-10 grid grid-flow-row grid-cols-4 gap-8">
-      <TasksList class="col-span-3" />
-      <UserList />
+    <main class="mt-10 grid grid-flow-row grid-cols-4 gap-2">
+      <UserList class="col-span-4" />
+      <TasksList class="col-span-4" />
     </main>
   </div>
 </template>
