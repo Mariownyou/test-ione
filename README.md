@@ -19,7 +19,7 @@ $ npm run generate
 ```
 
 ## Задание 
-[Google Docs](https://docviewer.yandex.ru/view/1130000052164664/?page=1&*=PIqSJL8Tnt5Dbrwk217YNWd3n0F7InVybCI6InlhLW1haWw6Ly8xNzY0ODQ4MTAzOTc1ODE0MDgvMS4yIiwidGl0bGUiOiLQotCXIFZ1ZSDQstCw0LrQsNC90YHQuNGPLmRvY3giLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjExMzAwMDAwNTIxNjQ2NjQiLCJ0cyI6MTYyNjk3OTM1MDk2NywieXUiOiIzNjE1ODM0NjIxNTg4MDY4MTg2In0%3D)
+[Google Docs](https://drive.google.com/file/d/1O_aRgAzWwvAc10rL7vbLzN-nLAF-jE4m/view?usp=sharing)
 
 Необходимо разработать NuxtJS приложение, которое будет представлять из себя список
 задач всех пользователей, с возможностью зайти в каждую задачу и посмотреть
